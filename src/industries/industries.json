@@ -1,4 +1,5 @@
 {
-    "layout": "base.njk",
-    "tags": "industries"
+  "layout": "base.njk",
+  "tags": "industries",
+  "permalink": "/industries/{{pageUrl}}/index.html"
 }

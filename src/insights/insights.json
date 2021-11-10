@@ -1,4 +1,5 @@
 {
-    "layout": "base.njk",
-    "tags": "insights"
+  "layout": "base.njk",
+  "tags": "insights",
+  "permalink": "/insights/{{pageUrl}}/index.html"
 }
