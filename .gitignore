@@ -8,7 +8,7 @@ lerna-debug.log*
 .DS_Store
 *.lock
 
-site
+site/
 _tmp/
 .env
 

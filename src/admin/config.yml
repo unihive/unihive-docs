@@ -19,6 +19,7 @@ collections:
     editor:
       preview: true
     fields:
+      - { label: "Permalink", "name": "permalink", widget: "string", required: true}
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
@@ -32,6 +33,7 @@ collections:
     editor:
       preview: true
     fields:
+      - { label: "Permalink", "name": "permalink", widget: "string", required: true}
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
@@ -45,6 +47,7 @@ collections:
     editor:
       preview: true
     fields:
+      - { label: "Permalink", "name": "permalink", widget: "string", required: true}
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
@@ -58,6 +61,7 @@ collections:
     editor:
       preview: true
     fields:
+      - { label: "Permalink", "name": "permalink", widget: "string", required: true}
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
