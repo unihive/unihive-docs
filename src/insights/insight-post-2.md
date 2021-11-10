@@ -1,4 +1,5 @@
 ---
+pageUrl: insight_post_2
 title: Insight Post 2
 description: Iterative approaches to corporate strategy foster collaborative
   thinking to further the overall value proposition. Organically grow the

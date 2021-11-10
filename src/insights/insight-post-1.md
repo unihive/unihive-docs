@@ -1,5 +1,5 @@
 ---
-permalink: /insights/insight_post_test
+pageUrl: insight_post_1
 title: Insight Post 1
 description: Capitalize on low hanging fruit to identify a ballpark value added
   activity to beta test. Override the digital divide with additional
