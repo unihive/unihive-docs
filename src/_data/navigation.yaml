@@ -1,0 +1,13 @@
+items:
+  - text: Services
+    url: /services
+  - text: Industries
+    url: /industries
+  - text: Showcases
+    url: /showcases
+  - text: Insights
+    url: /insights
+  - text: About Us
+    url: /about
+  - text: Contact Us
+    url: /contact
