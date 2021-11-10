@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy Static Files to /site
   eleventyConfig.addPassthroughCopy({
-    "./src/admin/config.json": "./admin/config.json"
+    "./src/admin/config.yml": "./admin/config.yml"
   });
 
   // Copy Static Folder to /site
