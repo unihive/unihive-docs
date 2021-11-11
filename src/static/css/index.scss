@@ -1,0 +1,81 @@
+@font-face {
+  font-family: CompanyFont;
+  src: url(/static/fonts/company.woff);
+}
+
+$orange: #F78F1E;
+$dark: #1D2A38;
+html {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: $dark;
+}
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction:column;
+  font-family: "Dongle";
+  color: $dark;
+}
+header {
+  background-color: $dark;
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1400px;
+    padding: 20px 40px;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  .logo {
+    .icon {
+      height: 35px;
+      width: 40px;
+      background: left top / contain no-repeat url(/static/img/logo-icon.svg);
+    }
+    .text {
+      display: none;
+      height: 23px;
+      width: 161px;
+      background: left top / contain no-repeat url(/static/img/logo-text.svg);
+    }
+  }
+  nav {
+    display: flex;
+    column-gap: 30px;
+    a {
+      font-family: "CompanyFont", sans-serif;
+      letter-spacing: 2px;
+      font-size: 14px;
+      text-transform: uppercase;
+      text-decoration: none;
+      transition: color 300ms;
+      color: $orange;
+    }
+    a:hover, a:active, a:focus, a.active {
+      color: #fff;
+    }
+  }
+}
+main {
+  width: 100%;
+  flex: 1;
+  margin: auto;
+  background-color: #fff;
+
+  .wrapper {
+    max-width: 1400px;
+    padding: 30px 40px;
+  }
+}
+
+footer {
+  background-color: #1D2A38;
+  color: white;
+}
