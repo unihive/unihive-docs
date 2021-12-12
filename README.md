@@ -27,16 +27,14 @@ cd neat-starter
 npm install
 ```
 
-### 4\. Build the project to generate the first CSS
-
-This step is only required the very first time.
-
-```
-npm run build
-```
-
-### 5\. Run Eleventy
+### 4\. Run Eleventy
 
 ```
 npm run start
+```
+
+### 5\. Build the project
+
+```
+npm run build
 ```
