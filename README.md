@@ -12,13 +12,13 @@
 ### 1\. Clone this Repository
 
 ```
-git clone https://github.com/surjithctly/neat-starter.git
+git clone https://github.com/unihive/cms.git
 ```
 
 ### 2\. Navigate to the directory
 
 ```
-cd neat-starter
+cd cms
 ```
 
 ### 3\. Install dependencies
@@ -27,7 +27,7 @@ cd neat-starter
 npm install
 ```
 
-### 4\. Run Eleventy
+### 4\. Run Locally
 
 ```
 npm run start
