@@ -12,7 +12,7 @@
 ### 1\. Clone this Repository
 
 ```
-git clone https://github.com/unihive/cms.git
+git clone https://github.com/unihive/unihive-docs.git
 ```
 
 ### 2\. Navigate to the directory
